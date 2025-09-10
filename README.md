@@ -18,7 +18,7 @@ Data: JSON dataset of harmful/risky cosmetic ingredients
 
 Usage
 
-1. Clone the repository: git clone https://github.com/your-username/skinsafly.git then cd skinsafly
+1. Clone the repository then cd skinsafly
 2. Open index.html in your browser.
 3. Paste cosmetic product ingredients (comma-separated) into the input box.
 4. The app will display both safe ✅ and harmful ⚠️ ingredients.
